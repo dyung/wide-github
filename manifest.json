@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://github.*/*", "https://gist.github.*/*"],
+      "matches": ["https://github.sie.sony.com/*],
       "css": ["wide-github.css"],
       "js": ["wide-github-toggle.js"]
     }
